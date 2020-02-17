@@ -1,2 +1,2 @@
 # JS-RPG
- Started the loot/inventory system for a javascript rpg
+Currently working on elements for a JavaScript based RPG
